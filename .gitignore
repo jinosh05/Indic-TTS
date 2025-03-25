@@ -1,6 +1,6 @@
 *.pyc
-*.pth
-*.json
+# *.pth
+# *.json
 *.DS_Store
 *.log
 inference/checkpoints
